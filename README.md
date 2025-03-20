@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @OGRakoon
-- 👀 I’m interested in Video Games / Streaming on Twitch
-- 🌱 I’m currently working on Making Music
-- 💞️ I’m looking to collaborate on Coding Websites & Apps
-- ✅ Discord: OG_Rakoon#1371 
+
